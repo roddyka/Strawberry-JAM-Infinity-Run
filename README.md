@@ -1,4 +1,4 @@
-# Strawberry-JAM-Infinity-Run
+# Strawberry-JAM-Infinity-Run (Phaser JS / PhaserEditor2D)
 infinity run to a little game jam on this month.
 
 Using PhaserEditor2D to create a infinity run motorcycle.
