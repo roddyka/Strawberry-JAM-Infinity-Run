@@ -1,0 +1,168 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "sceneKey": "Level"
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "f17c867f-7804-4913-96a5-802d5c92beb7",
+            "label": "bgStreet",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "background-1"
+            },
+            "x": 422,
+            "y": -45,
+            "originY": 0.004559168596958152
+        },
+        {
+            "type": "Image",
+            "id": "027f5c04-1dd7-4bc3-8fe5-26ffe6f9c294",
+            "label": "bgStreet_2",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "background-1"
+            },
+            "x": 422,
+            "y": -692,
+            "originY": 0.004559168596958152
+        },
+        {
+            "type": "Image",
+            "id": "bbc73438-a297-481e-baa0-6c7c652c8c6f",
+            "label": "player",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "car_red_5"
+            },
+            "x": 421,
+            "y": 437
+        },
+        {
+            "type": "Image",
+            "id": "3652159a-5396-45cc-a974-2e03513f2408",
+            "label": "shield1",
+            "components": [],
+            "texture": {
+                "key": "shield1"
+            },
+            "x": 422,
+            "y": 387
+        },
+        {
+            "type": "Container",
+            "id": "86e197ae-ab11-4e37-b15d-2835afd5d463",
+            "label": "cars",
+            "components": [],
+            "x": 178,
+            "y": -146,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "738e8e8c-6e5d-426d-ad02-ff137a1f4c84",
+                    "label": "car_black_4",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "car_black_4"
+                    },
+                    "x": 199.35798500163764,
+                    "y": 67.49418982214353
+                }
+            ]
+        },
+        {
+            "type": "Image",
+            "id": "28ad2527-ea0e-43a8-acd5-8835a502c4f7",
+            "label": "left",
+            "components": [],
+            "texture": {
+                "key": "grey_button12"
+            },
+            "x": 360,
+            "y": 560
+        },
+        {
+            "type": "Image",
+            "id": "54b015a9-c8b9-44c8-9379-4b23f62c5bda",
+            "label": "right",
+            "components": [],
+            "texture": {
+                "key": "grey_button12"
+            },
+            "x": 487,
+            "y": 560
+        },
+        {
+            "type": "Image",
+            "id": "7684c3a2-9908-43b7-9ca8-d37e9bb8a183",
+            "label": "forward",
+            "components": [],
+            "texture": {
+                "key": "forward"
+            },
+            "x": 486,
+            "y": 559
+        },
+        {
+            "type": "Image",
+            "id": "51eb8a33-14a0-4892-be10-b30de1360e49",
+            "label": "forward_1",
+            "components": [],
+            "texture": {
+                "key": "forward"
+            },
+            "x": 359,
+            "y": 559,
+            "flipX": true
+        },
+        {
+            "type": "Image",
+            "id": "fbeeb415-ec55-4191-b729-aaffef17c679",
+            "label": "motorcycle_black",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "motorcycle_black"
+            },
+            "x": -100,
+            "y": 449
+        },
+        {
+            "type": "Image",
+            "id": "be530c48-0aaf-4df1-86f7-f882a4c9bffa",
+            "label": "template",
+            "components": [],
+            "texture": {
+                "key": "template"
+            },
+            "x": 401,
+            "y": 312,
+            "scaleX": 1.1345102235440603,
+            "scaleY": 1.1345102235440603
+        },
+        {
+            "type": "Image",
+            "id": "138adda3-a5ca-48c1-b558-b6da22c9fb1a",
+            "label": "buttonStart",
+            "components": [],
+            "texture": {
+                "key": "buttonStart"
+            },
+            "x": 403,
+            "y": 463
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}

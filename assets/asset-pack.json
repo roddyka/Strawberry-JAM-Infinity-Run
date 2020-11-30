@@ -1,0 +1,256 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/background-1.png",
+                "type": "image",
+                "key": "background-1"
+            },
+            {
+                "url": "assets/buttons.js",
+                "type": "script",
+                "key": "buttons"
+            },
+            {
+                "url": "assets/buttonStart.png",
+                "type": "image",
+                "key": "buttonStart"
+            },
+            {
+                "url": "assets/buttonStart copy.png",
+                "type": "image",
+                "key": "buttonStart copy"
+            },
+            {
+                "url": "assets/car_black_1.png",
+                "type": "image",
+                "key": "car_black_1"
+            },
+            {
+                "url": "assets/car_black_2.png",
+                "type": "image",
+                "key": "car_black_2"
+            },
+            {
+                "url": "assets/car_black_3.png",
+                "type": "image",
+                "key": "car_black_3"
+            },
+            {
+                "url": "assets/car_black_4.png",
+                "type": "image",
+                "key": "car_black_4"
+            },
+            {
+                "url": "assets/car_black_5.png",
+                "type": "image",
+                "key": "car_black_5"
+            },
+            {
+                "url": "assets/car_blue_1.png",
+                "type": "image",
+                "key": "car_blue_1"
+            },
+            {
+                "url": "assets/car_blue_2.png",
+                "type": "image",
+                "key": "car_blue_2"
+            },
+            {
+                "url": "assets/car_blue_3.png",
+                "type": "image",
+                "key": "car_blue_3"
+            },
+            {
+                "url": "assets/car_blue_4.png",
+                "type": "image",
+                "key": "car_blue_4"
+            },
+            {
+                "url": "assets/car_blue_5.png",
+                "type": "image",
+                "key": "car_blue_5"
+            },
+            {
+                "url": "assets/car_green_1.png",
+                "type": "image",
+                "key": "car_green_1"
+            },
+            {
+                "url": "assets/car_green_2.png",
+                "type": "image",
+                "key": "car_green_2"
+            },
+            {
+                "url": "assets/car_green_3.png",
+                "type": "image",
+                "key": "car_green_3"
+            },
+            {
+                "url": "assets/car_green_4.png",
+                "type": "image",
+                "key": "car_green_4"
+            },
+            {
+                "url": "assets/car_green_5.png",
+                "type": "image",
+                "key": "car_green_5"
+            },
+            {
+                "url": "assets/car_red_1.png",
+                "type": "image",
+                "key": "car_red_1"
+            },
+            {
+                "url": "assets/car_red_2.png",
+                "type": "image",
+                "key": "car_red_2"
+            },
+            {
+                "url": "assets/car_red_3.png",
+                "type": "image",
+                "key": "car_red_3"
+            },
+            {
+                "url": "assets/car_red_4.png",
+                "type": "image",
+                "key": "car_red_4"
+            },
+            {
+                "url": "assets/car_red_5.png",
+                "type": "image",
+                "key": "car_red_5"
+            },
+            {
+                "url": "assets/car_yellow_1.png",
+                "type": "image",
+                "key": "car_yellow_1"
+            },
+            {
+                "url": "assets/car_yellow_2.png",
+                "type": "image",
+                "key": "car_yellow_2"
+            },
+            {
+                "url": "assets/car_yellow_3.png",
+                "type": "image",
+                "key": "car_yellow_3"
+            },
+            {
+                "url": "assets/car_yellow_4.png",
+                "type": "image",
+                "key": "car_yellow_4"
+            },
+            {
+                "url": "assets/car_yellow_5.png",
+                "type": "image",
+                "key": "car_yellow_5"
+            },
+            {
+                "url": "assets/dino.png",
+                "type": "image",
+                "key": "dino"
+            },
+            {
+                "url": "assets/explosion1.png",
+                "type": "image",
+                "key": "explosion1"
+            },
+            {
+                "url": "assets/explosion2.png",
+                "type": "image",
+                "key": "explosion2"
+            },
+            {
+                "url": "assets/explosion3.png",
+                "type": "image",
+                "key": "explosion3"
+            },
+            {
+                "url": "assets/forward.png",
+                "type": "image",
+                "key": "forward"
+            },
+            {
+                "url": "assets/green_button02.png",
+                "type": "image",
+                "key": "green_button02"
+            },
+            {
+                "url": "assets/green_button03.png",
+                "type": "image",
+                "key": "green_button03"
+            },
+            {
+                "url": "assets/grey_button12.png",
+                "type": "image",
+                "key": "grey_button12"
+            },
+            {
+                "url": "assets/grey_button13.png",
+                "type": "image",
+                "key": "grey_button13"
+            },
+            {
+                "url": "assets/Level.js",
+                "type": "sceneFile",
+                "key": "Level"
+            },
+            {
+                "url": "assets/meteorBrown_big1.png",
+                "type": "image",
+                "key": "meteorBrown_big1"
+            },
+            {
+                "url": "assets/meteorGrey_big2.png",
+                "type": "image",
+                "key": "meteorGrey_big2"
+            },
+            {
+                "url": "assets/motorcycle_black.png",
+                "type": "image",
+                "key": "motorcycle_black"
+            },
+            {
+                "url": "assets/shield1.png",
+                "type": "image",
+                "key": "shield1"
+            },
+            {
+                "url": "assets/starBackground.png",
+                "type": "image",
+                "key": "starBackground"
+            },
+            {
+                "url": "assets/template.png",
+                "type": "image",
+                "key": "template"
+            },
+            {
+                "url": "assets/template (1).png",
+                "type": "image",
+                "key": "template (1)"
+            },
+            {
+                "url": [
+                    "assets/y2mate.com - 8- bit explosion sound effect [SFX].mp3"
+                ],
+                "type": "audio",
+                "key": "y2mate.com - 8- bit explosion sound effect [SFX]"
+            },
+            {
+                "url": [
+                    "assets/y2mate.com - Eight Bit Race Cars Remastered -- 8-bit -- Royalty Free Music.mp3"
+                ],
+                "type": "audio",
+                "key": "y2mate.com - Eight Bit Race Cars Remastered -- 8-bit -- Royalty Free Music"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}
